@@ -1,0 +1,58 @@
+{
+    "name": "Feedzai",
+    "description": "Feedzai is a data science company that detects fraud in omnichannel commerce.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28753-feedzai-com.jpg",
+    "tags": [
+        "artificial intelligence",
+        "commerce",
+        "fraud",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/feedzai\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Feedzai",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28753-feedzai-com.jpg",
+            "humanURL": "https:\/\/feedzai.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/feedzai-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/feedzai.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/feedzai"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/feedzai.com\/developers\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/feedzai"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/feedzai"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/feedzai.com"
+        }
+    ]
+}
