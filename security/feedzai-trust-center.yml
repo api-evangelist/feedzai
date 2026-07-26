@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: >-
+  https://www.feedzai.com/legal/ethical-ai-policy/ and
+  https://www.feedzai.com/legal/data-processing-agreement/
+description: >-
+  Feedzai's published security & compliance posture. Feedzai does not operate a
+  dedicated trust.<domain> subdomain (the automated probe found none); its
+  certifications and regulatory commitments are published across its legal pages
+  (AI Policy, Data Processing Agreement, Vendor Compliance Guide). This is the
+  searched, human-verified capture. Feedzai is an AI-native financial-crime
+  prevention platform processing card/payment and personal data, so it carries
+  the payments + information-security certification set.
+certifications:
+  - {name: ISO/IEC 27001, scope: Information Security Management System}
+  - {name: PCI DSS, level: Level 1, scope: Cardholder / payment data handling}
+  - {name: SOC 2 Type II, availability: on request under NDA}
+  - {name: GDPR, note: Committed via Data Processing Agreement and Privacy Notice}
+security_contact: mailto:csirt@feedzai.com
+docs:
+  - https://www.feedzai.com/legal/ethical-ai-policy/
+  - https://www.feedzai.com/legal/data-processing-agreement/
+  - https://www.feedzai.com/legal/feedzai-vendor-compliance-guide/
+evidence:
+  - {source: https://www.feedzai.com/legal/ethical-ai-policy/, keywords: [iso/iec 27001, pci dss level 1, soc 2, gdpr]}
+  - {source: https://www.feedzai.com/legal/data-processing-agreement/, keywords: [iso/iec 27001, pci dss, soc 2 type ii, gdpr]}

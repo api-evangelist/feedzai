@@ -1,0 +1,97 @@
+generated: '2026-07-19'
+method: searched
+source: >-
+  Public package registries (Maven Central group com.feedzai, npm @feedzai
+  scope, PyPI) and the github.com/feedzai organization. Feedzai's core RiskOps
+  fraud/AML product APIs are enterprise/NDA-gated and ship no public client SDK;
+  the first-party libraries that ARE published are the OpenML model-integration
+  API (Java/Python/R, the documented way to plug ML models into the Feedzai
+  platform), the PulseDB database-mapping library, and a set of open-source
+  front-end/accessibility tooling libraries. Only clearly first-party packages
+  are marked official:true.
+packages:
+  # OpenML — Feedzai's official multi-language model-integration API (client library for the platform)
+  - language: java
+    registry: maven
+    name: com.feedzai:openml-api
+    url: https://central.sonatype.com/artifact/com.feedzai/openml-api
+    install: "implementation 'com.feedzai:openml-api:1.2.0'"
+    official: true
+    description: Core API for Feedzai's Open Machine Learning (OpenML) platform integration.
+  - language: java
+    registry: maven
+    name: com.feedzai:openml-java
+    url: https://central.sonatype.com/artifact/com.feedzai/openml-java
+    install: "implementation 'com.feedzai:openml-java:2.0.1'"
+    official: true
+    description: Java provider for Feedzai OpenML — run Java ML models on the platform.
+  - language: python
+    registry: maven
+    name: com.feedzai:openml-python
+    url: https://central.sonatype.com/artifact/com.feedzai/openml-python
+    install: "implementation 'com.feedzai:openml-python:0.3.0'"
+    official: true
+    description: Python-based Feedzai OpenML provider (bridges scikit-learn / Python models).
+  - language: r
+    registry: maven
+    name: com.feedzai:openml-r
+    url: https://central.sonatype.com/artifact/com.feedzai/openml-r
+    install: "implementation 'com.feedzai:openml-r:0.4.0'"
+    official: true
+    description: R-language provider for Feedzai OpenML.
+  - language: java
+    registry: maven
+    name: com.feedzai:pdb
+    url: https://central.sonatype.com/artifact/com.feedzai/pdb
+    install: "implementation 'com.feedzai:pdb:2.8.24'"
+    official: true
+    description: PulseDB (PDB) — Feedzai's open-source Java database-mapping DSL.
+  # Front-end / accessibility open-source tooling published under the @feedzai npm scope
+  - language: javascript
+    registry: npm
+    name: "@feedzai/react-a11y-tools"
+    url: https://www.npmjs.com/package/@feedzai/react-a11y-tools
+    install: npm install @feedzai/react-a11y-tools
+    official: true
+    description: React components for building accessible design systems.
+  - language: javascript
+    registry: npm
+    name: "@feedzai/autovizua11y"
+    url: https://www.npmjs.com/package/@feedzai/autovizua11y
+    install: npm install @feedzai/autovizua11y
+    official: true
+    description: AutoVizuA11y — automates accessible data visualizations for screen-reader users.
+  - language: javascript
+    registry: npm
+    name: "@feedzai/js-utilities"
+    url: https://www.npmjs.com/package/@feedzai/js-utilities
+    install: npm install @feedzai/js-utilities
+    official: true
+    description: Collection of common JavaScript utilities for web projects.
+  - language: javascript
+    registry: npm
+    name: "@feedzai/brushable-histogram"
+    url: https://www.npmjs.com/package/@feedzai/brushable-histogram
+    install: npm install @feedzai/brushable-histogram
+    official: true
+    description: Time histogram React component with a brushable preview.
+  - language: javascript
+    registry: npm
+    name: "@feedzai/eslint-config-feedzai"
+    url: https://www.npmjs.com/package/@feedzai/eslint-config-feedzai
+    install: npm install --save-dev @feedzai/eslint-config-feedzai
+    official: true
+    description: Feedzai's base JavaScript ESLint configuration.
+  - language: python
+    registry: pypi
+    name: feedzai-altair-theme
+    url: https://pypi.org/project/feedzai-altair-theme/
+    install: pip install feedzai-altair-theme
+    official: true
+    description: Feedzai's theme for Altair charts.
+notes: >-
+  An older npm package `feedzai` (publisher "bencxr", "Feedzai Fraud protection
+  service") exists but is not published under the @feedzai org scope and could
+  not be confirmed as first-party, so it is excluded. No first-party client SDK
+  for the RiskOps transaction/fraud API is published publicly (that surface is
+  contract-gated).

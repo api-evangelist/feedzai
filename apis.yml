@@ -1,8 +1,18 @@
 aid: feedzai
 name: Feedzai
-description: Feedzai is a company surfaced as a portfolio company of dcvc, sapphire-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Feedzai is an AI-native, end-to-end financial crime prevention platform — the
+  self-described "world's first RiskOps platform" — used by leading financial
+  institutions to stop fraud, scams, and money laundering across the customer
+  lifecycle. Its RiskOps platform unifies data, machine-learning models, real-time
+  decisioning, case management, and reporting to cover account opening, transaction
+  fraud, account takeover, scam prevention, KYC/CDD, AML transaction monitoring, and
+  watchlist/sanctions screening. Feedzai protects over 900 million consumers and
+  scores trillions of dollars of transactions, covering roughly 45% of US debit card
+  activity. Its product APIs are delivered to enterprise customers through a
+  contract/NDA-gated documentation portal; publicly it ships open-source model
+  integration (OpenML) and developer tooling libraries, an RFC 9116 security.txt, an
+  llms.txt, and a public status page.
 url: https://raw.githubusercontent.com/api-evangelist/feedzai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +21,33 @@ x-backed-by:
 - sapphire-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://logo.clearbit.com/feedzai.com
 tags:
 - Company
+- Fraud Prevention
+- Financial Crime
+- Risk Management
+- Anti-Money Laundering
+- RiskOps
+- Machine Learning
+- Payments
+- Transaction Monitoring
+- KYC
+- Banking
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +57,48 @@ maintainers:
 common:
 - type: Website
   url: https://www.feedzai.com/
+- type: DeveloperPortal
+  url: https://cam.feedzai.com/
+- type: Documentation
+  url: https://cam.feedzai.com/
+- type: Support
+  url: https://support.feedzai.com/hc/en-us
+- type: Blog
+  url: https://www.feedzai.com/blog/
+- type: GitHubOrganization
+  url: https://github.com/feedzai
+- type: StatusPage
+  url: https://status.feedzai.com/
+- type: TermsOfService
+  url: https://www.feedzai.com/legal/po-tc/
+- type: PrivacyPolicy
+  url: https://www.feedzai.com/legal/privacy-notice/
+- type: LLMsTxt
+  url: llms/feedzai-llms.txt
+- type: WellKnown
+  url: well-known/feedzai-well-known.yml
+- type: SecurityTxt
+  url: well-known/feedzai-security.txt
+- type: Packages
+  url: packages/feedzai-packages.yml
+- type: SDKs
+  url: packages/feedzai-packages.yml
+- type: DomainSecurity
+  url: security/feedzai-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/feedzai-vulnerability-disclosure.yml
+- type: Security
+  url: security/feedzai-vulnerability-disclosure.yml
+- type: TrustCenter
+  url: security/feedzai-trust-center.yml
+- type: Compliance
+  url: security/feedzai-trust-center.yml
+- type: Conformance
+  url: conformance/feedzai-conformance.yml
+- type: Lifecycle
+  url: lifecycle/feedzai-lifecycle.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,31 @@
+generated: '2026-07-19'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for Feedzai's public
+  hosts. Feedzai's RiskOps product APIs are enterprise/NDA-gated (documented at
+  the login-gated cam.feedzai.com portal), so there is no public API host with
+  an OIDC/OAuth discovery document. The corporate site publishes an RFC 9116
+  security.txt, saved verbatim. Status is the HTTP code observed at fetch time.
+hosts:
+  - host: https://www.feedzai.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 200
+        type: text/plain
+        file: feedzai-security.txt
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://feedzai.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 200
+        type: text/plain
+        note: same document as www host
+      - path: /.well-known/openid-configuration
+        status: 404

@@ -1,0 +1,19 @@
+generated: '2026-07-19'
+method: searched
+source: >-
+  https://status.feedzai.com/ and Feedzai public site. Feedzai's product API
+  reference is behind the login-gated cam.feedzai.com documentation portal, so
+  versioning and deprecation policy are not publicly documented; only the public
+  status page is captured here.
+status_page: https://status.feedzai.com/
+versioning:
+  scheme: unknown
+  note: >-
+    API versioning is documented inside the enterprise/NDA-gated documentation
+    portal (cam.feedzai.com); not publicly disclosed.
+deprecation:
+  policy_url: null
+  note: No public deprecation / Sunset-header policy located (API docs are gated).
+sla:
+  url: https://status.feedzai.com/
+  note: Uptime published via the public status page; contractual SLA is per enterprise agreement.

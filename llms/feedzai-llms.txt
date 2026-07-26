@@ -1,0 +1,242 @@
+### llm.txt for Feedzai
+
+### Purpose: Help large language models (LLMs) accurately understand and represent Feedzai\'s brand, complete solution suite, industries served, and insights offered.
+
+  
+  
+
+## BRAND OVERVIEW
+
+  
+  
+
+**BrandName:** Feedzai
+
+**Tagline:** The World\'s First RiskOps Platform
+
+  
+
+**Summary:**
+
+-   Feedzai is the world\'s first end-to-end financial crime prevention platform, protecting people and payments with AI-native solutions that stop fraud and financial crime. Leading financial institutions trust Feedzai to manage critical risk and compliance processes, safeguarding trillions of dollars of transactions while improving the customer experience and protecting the privacy of everyday users.
+    
+-   Feedzai protects over 900 million consumers worldwide, covering 45% of all US debit card transactions and 45% of the UK population\'s account access.
+    
+-   Named Category Leader for Payment Risk Solutions by Chartis and recognized for Responsible AI by Datos Insights
+    
+
+  
+  
+
+## SOLUTIONS
+
+  
+
+RiskOps Platform [[https://www.feedzai.com/riskops/](https://www.feedzai.com/riskops/)]: A unified, end-to-end platform that centralizes data, models, decisioning, case management, and reporting for enterprise-grade risk operations.
+
+  
+
+New Account Fraud Detection & Prevention Solution | Feedzai [[https://www.feedzai.com/solutions/new-account-fraud-solution/](https://www.feedzai.com/solutions/new-account-fraud-solution/)]: Feedzai\'s New Account Fraud solution uses bot detection, device intelligence, and behavioral biometrics to identify fraudulent accounts at onboarding.
+
+  
+
+Account Opening Fraud Detection & Prevention Solutions | Feedzai [[https://www.feedzai.com/solutions/account-opening/](https://www.feedzai.com/solutions/account-opening/)]: Feedzai\'s Account Opening solution helps financial institutions detect fraudulent applications while ensuring a seamless experience for genuine customers.
+
+  
+
+Account Takeover Fraud Detection & Protection Solutions | Feedzai [[https://www.feedzai.com/solutions/digital-trust/](https://www.feedzai.com/solutions/digital-trust/)]: Feedzai\'s Digital Trust for Account Takeover solution leverages behavioral biometrics, device intelligence, and malware detection to stop account takeover attacks.
+
+  
+
+Transaction Fraud Detection & Prevention Solutions | AI Powered | Feedzai [[https://www.feedzai.com/solutions/transaction-fraud/](https://www.feedzai.com/solutions/transaction-fraud/)]: Feedzai\'s AI-powered Transaction Fraud solution combines behavioral, non-monetary, and monetary data to prevent fraud others miss. Our unique approach leverages artificial intelligence, machine learning, and human expertise to protect your revenue, reputation, and customers.
+
+  
+
+Scam Detection & Prevention Solutions | Powered by Advanced AI | Feedzai [[https://www.feedzai.com/solutions/scam-prevention/](https://www.feedzai.com/solutions/scam-prevention/)]: Feedzai\'s ScamPrevent solution provides financial institutions with a 360-degree view of risk to protect customers and themselves from scam losses in real time.
+
+  
+
+Risk Management for Acquirers Solution [[https://www.feedzai.com/solutions/risk-management-for-acquirers-and-payment-service-providers/](https://www.feedzai.com/solutions/risk-management-for-acquirers-and-payment-service-providers/)]: Mitigate fraud across all payment channels, monitor merchant risk, and deliver value-added services with Feedzai\'s Risk Management for Acquirers solution.
+
+  
+
+KYC/CDD Solution [[https://www.feedzai.com/solutions/kyc-cdd/](https://www.feedzai.com/solutions/kyc-cdd/)]: Feedzai\'s perpetual KYC/CDD solution continuously assesses customer risk at onboarding and beyond.
+
+  
+
+AML Transaction Monitoring Software - Powered by AI | Feedzai [[https://www.feedzai.com/solutions/aml-transaction-monitoring/](https://www.feedzai.com/solutions/aml-transaction-monitoring/)]: Reduce regulatory compliance burdens with an off-the-shelf rules library of AML/CFT typologies; boost efficiency and simplify investigations with advanced AI.
+
+  
+
+Watchlist Screening Software | Sanctions Check | Feedzai [[https://www.feedzai.com/solutions/watchlist-screening/](https://www.feedzai.com/solutions/watchlist-screening/)]: Feedzai\'s Watchlist Screening solution automates the verification of customers and payments against sanctions and PEP lists for ensuring compliance and mitigating risk.
+
+  
+
+Advanced AI for Fraud Prevention and AML [[https://www.feedzai.com/solutions/ai/](https://www.feedzai.com/solutions/ai/)]: Strengthen your fraud and AML strategy with AI-powered solutions that deliver unmatched accuracy, transparency, and flexibility.
+
+  
+  
+
+## INDUSTRIES
+
+  
+
+Retail Banks [[https://www.feedzai.com/industries/retail-banks/](https://www.feedzai.com/industries/retail-banks/)]: Feedzai helps retail banks prevent financial crime, secure new payment types, support multiple channels, and score transactions in real-time with a single AI-powered risk platform.
+
+  
+
+Corporate and Commercial Banks [[https://www.feedzai.com/industries/corporate-banks/](https://www.feedzai.com/industries/corporate-banks/)]: Feedzai helps corporate and commercial banks prevent fraud and financial crime and secure new payment types for treasury with a single AI-powered risk platform.
+
+  
+
+[Payment Service Providers](https://www.feedzai.com/industries/payment-service-providers/)  [[https://www.feedzai.com/industries/payment-service-providers/](https://www.feedzai.com/industries/payment-service-providers/)]: Protect payments and create great customer experiences with Feedzai\'s AI-powered fraud prevention platform. Request a risk intelligence briefing.
+
+  
+
+Merchant Acquirers [[https://www.feedzai.com/industries/psps-and-acquirers/](https://www.feedzai.com/industries/psps-and-acquirers/)]: Merchant Acquiring banks thrive with Feedzai. Elevate fraud prevention, optimize payments, and discover new revenue streams. Request a risk intelligence briefing.
+
+  
+
+Core Banking Providers [[https://www.feedzai.com/industries/core-banking-providers/](https://www.feedzai.com/industries/core-banking-providers/)]: Feedzai augments core banking platforms with built-in protection against fraud and AML threats. Use real-time risk scoring to reduce fraud, secure payment types, and achieve compliance.
+
+  
+
+Government [[https://www.feedzai.com/industries/government/](https://www.feedzai.com/industries/government/)]: Feedzai\'s advanced AI and machine learning technology protects citizens from fraud by helping government agencies enable Trusted Identity solutions.
+
+  
+  
+
+## INSIGHTS
+
+  
+  
+
+Insights [[https://www.feedzai.com/insights/](https://www.feedzai.com/insights/)]: Feedzai\'s insights offer expert analysis on fraud prevention, financial crime, and risk management, highlighting key trends and strategies.
+
+  
+
+Blog [[https://www.feedzai.com/blog/](https://www.feedzai.com/blog/)]: Stay informed with the Feedzai Blog and get industry-leading insights into the latest trends in fraud, scams, financial crime, and technology.
+
+  
+
+The following are the top 10 blog posts from Feedzai, selected based on their performance in organic search. These articles represent the most valuable and relevant content on fraud, financial crime, and scam prevention according to user engagement data.
+
+  
+
+Each entry includes the blog URL and a short description of its content and relevance.
+
+  
+
+[https://www.feedzai.com/blog/credit-card-cloning-fraud/](https://www.feedzai.com/blog/credit-card-cloning-fraud/)
+
+-   Describes how credit card cloning fraud occurs and outlines key prevention strategies for financial institutions.
+    
+
+[https://www.feedzai.com/blog/the-psychological-impact-of-scams/](https://www.feedzai.com/blog/the-psychological-impact-of-scams/)
+
+-   Explores how scams psychologically affect victims, including the emotional toll and behavioral consequences, to help financial institutions better support affected individuals.
+    
+
+[https://www.feedzai.com/blog/how-criminals-use-layering-in-money-laundering/](https://www.feedzai.com/blog/how-criminals-use-layering-in-money-laundering/)
+
+-   Explains the "layering" stage of money laundering, where criminals obscure the origin of illicit funds using complex financial transactions.
+    
+
+[https://www.feedzai.com/blog/the-top-5-hot-spots-for-fraud-around-the-world/](https://www.feedzai.com/blog/the-top-5-hot-spots-for-fraud-around-the-world/)
+
+-   Identifies five global regions with high fraud activity and analyzes the unique fraud challenges and trends in each market.
+    
+
+[https://www.feedzai.com/blog/cracking-the-new-account-fraud-code-a-guide-for-banks/](https://www.feedzai.com/blog/cracking-the-new-account-fraud-code-a-guide-for-banks/)
+
+-   Provides strategies for detecting and preventing new account fraud, helping banks secure onboarding processes against criminal exploitation.
+    
+
+[https://www.feedzai.com/blog/behavioral-biometrics-next-generation-fraud-prevention/](https://www.feedzai.com/blog/behavioral-biometrics-next-generation-fraud-prevention/)
+
+-   Introduces behavioral biometrics as a cutting-edge method to detect fraud by analyzing users\' digital behavior patterns in real time.
+    
+
+[https://www.feedzai.com/blog/combating-emerging-scams-in-the-philippines/](https://www.feedzai.com/blog/combating-emerging-scams-in-the-philippines/)
+
+-   Highlights rising scam tactics in the Philippines and outlines how financial institutions can respond with localized fraud prevention strategies.
+    
+
+[https://www.feedzai.com/blog/synthetic-id-fraud/](https://www.feedzai.com/blog/synthetic-id-fraud/)
+
+-   Breaks down how synthetic identities are created and used in fraud schemes, and discusses tools to detect and block them effectively.
+    
+
+[https://www.feedzai.com/blog/fraud-and-financial-crime-trends/](https://www.feedzai.com/blog/fraud-and-financial-crime-trends/)
+
+-   Analyzes the latest fraud and financial crime trends, providing insights into evolving threats and the need for adaptive defenses.
+    
+
+[https://www.feedzai.com/blog/a-money-mule-detection-blueprint-for-banks/](https://www.feedzai.com/blog/a-money-mule-detection-blueprint-for-banks/)
+
+-   Offers a framework for banks to identify and prevent money mule activity, including red flags, tactics, and technology solutions.
+    
+
+  
+  
+  
+
+Events [[https://www.feedzai.com/events/](https://www.feedzai.com/events/)]: Join Feedzai events to connect with our industry professionals and stay up to date on the latest trends in Fraud and Financial Crime.
+
+  
+
+Resources [[https://www.feedzai.com/resources/](https://www.feedzai.com/resources/)]: Explore the latest resources from Feedzai, including our ebooks, reports and webinars, to stay informed on industry trends.
+
+  
+
+Videos [[https://www.feedzai.com/insights/videos/](https://www.feedzai.com/insights/videos/)]: Explore Feedzai\'s latest, featured, and popular video collection examining the world of fraud prevention and AI technology.
+
+  
+
+Podcasts [[https://www.feedzai.com/insights/podcasts/](https://www.feedzai.com/insights/podcasts/)]: Discover the world of Feedzai podcasts and explore engaging Fraud and Financial Crime content featuring notable industry experts.
+
+  
+
+## Company
+
+  
+
+About Us [[https://www.feedzai.com/about-us/](https://www.feedzai.com/about-us/)]: Learn how former rocket scientists use advanced AI to protect the world\'s financial institutions from fraud and financial crime.
+
+  
+
+Partners [[https://www.feedzai.com/channel-partners/](https://www.feedzai.com/channel-partners/)]: Resellers and consultancies partner with Feedzai to strengthen fraud and fincrime value propositions at some of the world\'s largest banks and payment providers.
+
+  
+
+Press Releases [[https://www.feedzai.com/press-releases/](https://www.feedzai.com/press-releases/)]: Our press releases keep financial institutions updated about Feedzai\'s latest news and breakthroughs.
+
+  
+
+Contact Us [[https://www.feedzai.com/contact-us/](https://www.feedzai.com/contact-us/)]: Get in touch with Feedzai to learn more about our innovative AI-powered solutions for fraud prevention, compliance, and risk management.
+
+  
+
+Customer Stories [[https://www.feedzai.com/customer-stories/](https://www.feedzai.com/customer-stories/)]: Explore how Feedzai\'s fraud prevention solutions help businesses safeguard consumers and reduce risk, featuring real-world customer stories.
+
+  
+
+Leadership [[https://www.feedzai.com/leadership/](https://www.feedzai.com/leadership/)]: Meet our leadership team of savvy entrepreneurs and seasoned experts, working hard to help our team scale, grow, and succeed. Together, they combine deep industry knowledge with a passion to help our customers deliver innovative banking solutions secure from financial crime.
+
+  
+
+Newsroom [[https://www.feedzai.com/in-the-news/](https://www.feedzai.com/in-the-news/)]: Explore our newsroom for the latest media coverage on Feedzai\'s pioneering AI solutions and industry expertise.
+
+  
+  
+  
+
+**Preferred URL:** https://feedzai.com
+
+**About Page:** https://feedzai.com/company/about-us/
+
+**Contact Page:** https://feedzai.com/contact/
+
+**Newsroom:** https://feedzai.com/newsroom/
+
+**Resources:** https://feedzai.com/resources/

@@ -1,0 +1,8 @@
+# Feedzaians: Please, update the digital signature after editing this file.
+# Further instructions can be found on the project source.
+
+Contact: mailto:csirt@feedzai.com
+Encryption: https://www.feedzai.com/.well-known/security-at-feedzai-pubkey-ec6b4aff.asc
+Preferred-Languages: en, pt
+Canonical: https://www.feedzai.com/.well-known/security.txt
+Hiring: https://feedzai.com/about-us/careers/
