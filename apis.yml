@@ -52,9 +52,9 @@ tags:
 - Fraud Prevention
 - Financial Crime
 - Risk Management
-- Anti-Money Laundering
+- AML
 - RiskOps
-- Machine-Learning
+- Machine Learning
 - Payments
 - Transaction Monitoring
 - KYC
@@ -71,6 +71,7 @@ tags_raw:
 - Transaction Monitoring
 - KYC
 - Banking
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
