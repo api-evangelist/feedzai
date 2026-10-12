@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/feedzai/integrations
+- https://n8n.io/integrations/feedzai/
+- https://composio.dev/toolkits/feedzai
+- https://monid.ai/tools/feedzai
+checked:
+- https://composio.dev/toolkits/feedzai
+- https://monid.ai/tools/feedzai
+- https://n8n.io/integrations/feedzai/
+- https://zapier.com/apps/feedzai/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
