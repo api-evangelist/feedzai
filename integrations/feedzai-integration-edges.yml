@@ -1,16 +1,68 @@
 generated: '2026-10-12'
-method: none
+method: searched
 source:
 - https://zapier.com/apps/feedzai/integrations
 - https://n8n.io/integrations/feedzai/
 - https://composio.dev/toolkits/feedzai
 - https://monid.ai/tools/feedzai
 checked:
+- https://aws.amazon.com/marketplace/
 - https://composio.dev/toolkits/feedzai
 - https://monid.ai/tools/feedzai
 - https://n8n.io/integrations/feedzai/
 - https://zapier.com/apps/feedzai/integrations
 summary: null
 marketplace_apps: []
-edges: []
+edges:
+- partner_name: AWS Marketplace
+  partner: amazon-web-services
+  partner_match: aggregator
+  type: marketplace
+  marketplace: aws-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://aws.amazon.com/marketplace/seller-profile?id=seller-bn7neumq5ig64
+  listing_count: 3
+  apps:
+  - Feedzai IQ Score
+  - 'Feedzai: AI-Native, End-to-end Fraud and Financial Crime Prevention'
+  - Feedzai Digital Trust - Account Monitoring
+  seller_name: Feedzai, Inc.
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
+- partner_name: AWS Marketplace
+  partner: amazon-web-services
+  partner_match: aggregator
+  type: marketplace
+  marketplace: aws-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://aws.amazon.com/marketplace/seller-profile?id=seller-ifx6cmoeghgyo
+  listing_count: 3
+  apps:
+  - Feedzai IQ Score
+  - 'Feedzai: AI-Native, End-to-end Fraud and Financial Crime Prevention'
+  - Feedzai Digital Trust - Account Monitoring
+  seller_name: Feedzai SA
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
+- partner_name: AWS Marketplace
+  partner: amazon-web-services
+  partner_match: aggregator
+  type: marketplace
+  marketplace: aws-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://aws.amazon.com/marketplace/seller-profile?id=seller-a37wfv56d4sta
+  listing_count: 3
+  apps:
+  - Feedzai IQ Score
+  - 'Feedzai: AI-Native, End-to-end Fraud and Financial Crime Prevention'
+  - Feedzai Digital Trust - Account Monitoring
+  seller_name: Feedzai Spain S.L.U.
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
 templates: []
