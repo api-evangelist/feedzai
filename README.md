@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Feedzai is a company surfaced as a portfolio company of dcvc, sapphire-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Feedzai is an AI-native, end-to-end financial crime prevention platform — the self-described "world's first RiskOps platform" — used by leading financial institutions to stop fraud, scams, and money laundering across the customer lifecycle. Its RiskOps platform unifies data, machine-learning models, real-time decisioning, case management, and reporting to cover account opening, transaction fraud, account takeover, scam prevention, KYC/CDD, AML transaction monitoring, and watchlist/sanctions screening. Feedzai protects over 900 million consumers and scores trillions of dollars of transactions, covering roughly 45% of US debit card activity. Its product APIs are delivered to enterprise customers through a contract/NDA-gated documentation portal; publicly it ships open-source model integration (OpenML) and developer tooling libraries, an RFC 9116 security.txt, an llms.txt, and a public status page.
 
-Backed by: dcvc, sapphire-ventures — https://www.feedzai.com/
+**Areas:** Company · Fraud Prevention · Financial Crime · Risk Management · AML · RiskOps · Machine Learning · Payments · Transaction Monitoring · KYC · Banking
+
+## Feedzai on APIs.io
+
+Everything profiled for Feedzai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/feedzai/](https://apis.io/providers/feedzai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Feedzai Domain Security](https://apis.io/security/feedzai/feedzai-domain-security/)
+- [Feedzai Trust Center](https://apis.io/security/feedzai/feedzai-trust-center/)
+- [Feedzai Vulnerability Disclosure](https://apis.io/security/feedzai/feedzai-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.feedzai.com/)
+- [Documentation](https://cam.feedzai.com/)
+- [Support](https://support.feedzai.com/hc/en-us)
+- [Blog](https://www.feedzai.com/blog/)
+- [Terms of service](https://www.feedzai.com/legal/po-tc/)
+- [Privacy policy](https://www.feedzai.com/legal/privacy-notice/)
+- [GitHub](https://github.com/feedzai)
+- [Status](https://status.feedzai.com/)
+
+## API Evangelist rating
+
+**Kin Score 25.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.2** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/feedzai/](https://apis.io/providers/feedzai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Feedzai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/feedzai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
